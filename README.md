@@ -39,23 +39,47 @@ Here are some ideas to get you started:
 | ------------- |:-------------:| -----:| ----:|
 
 ## Skills
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Data Structure and Algorithm](https://img.shields.io/badge/-Data%20Structure%20and%20Algorithm-ffa500?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+Programming Languages and Frameworks:
+- Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- Spring ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat-square&logo=microservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-5C6BC0?style=flat-square)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)
+Frontend Tech
+- React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- HTML ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- CSS ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![System Design](https://img.shields.io/badge/-System%20Design-2C3E50?style=flat-square)
-![Leadership](https://img.shields.io/badge/-Leadership-FFA500?style=flat-square)
-![Project Management](https://img.shields.io/badge/-Project%20Management-2C3E50?style=flat-square)
-![Communication](https://img.shields.io/badge/-Communication-1abc9c?style=flat-square)
+Data Management and Storage:
+- MySQL ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- RDBMS (Sybase, DB2) ![RDBMS](https://img.shields.io/badge/RDBMS-Sybase%2C%20DB2-blue)
+- NoSQL (MongoDB) ![NoSQL](https://img.shields.io/badge/NoSQL-MongoDB-green)
+- Graph database (JanusGraph DB) ![Graph database](https://img.shields.io/badge/Graph%20database-JanusGraph%20DB-red)
 
+Algorithms and Data Structures:
+- Data Structure and Algorithm ![Data Structure and Algorithm](https://img.shields.io/badge/Data%20Structure%20and%20Algorithm-232F3E?style=for-the-badge)
+
+Cloud Computing:
+- AWS Cloud ![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Microservices:
+- Microservices ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Kubernetes ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+Agile Development:
+- Agile ![Agile](https://img.shields.io/badge/Agile-13aa52?style=for-the-badge&logo=agile&logoColor=white)
+- Jira ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+Message Brokers:
+- Kafka ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache%20kafka&logoColor=white)
+
+System Design:
+- System Design ![System Design](https://img.shields.io/badge/System%20Design-663399?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+
+Leadership and Management:
+- Leadership ![Leadership](https://img.shields.io/badge/Leadership-6D4C41?style=for-the-badge)
+- Project Management ![Project Management](https://img.shields.io/badge/-Project%20Management-2C3E50?style=flat-square)
 
 
 ## Professional Experience
