@@ -17,7 +17,7 @@ badges > https://shields.io/
 -->
 # Kunal Saxena
 <div>
-  <a href="mailto:kunalsaxena@live.com" target="_blank">
+  <a href="mailto:kunal.saxena.kunal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/kunalsaxena/" target="_blank">
