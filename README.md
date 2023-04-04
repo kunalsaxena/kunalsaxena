@@ -20,7 +20,6 @@ badges > https://shields.io/
   <head>
     <meta charset="UTF-8">
     <meta name="description" content="Experienced Java developer with expertise in Spring, REST APIs, system design, and data structures and algorithms. Skilled in data management and storage using RDBMS and NoSQL databases, as well as cloud technologies like AWS, Docker, and Kubernetes. Knowledgeable in message brokers like Kafka, frontend development using React, HTML, CSS, and JavaScript, and agile development methodologies. Strong leadership and project management skills with excellent communication abilities">
-    <title>Kunal Saxena's Resume</title>
   </head>
   <body>
   </body>
