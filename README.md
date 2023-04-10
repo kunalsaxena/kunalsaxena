@@ -93,6 +93,8 @@ badges > https://shields.io/
 ------
 ## Professional Experience
 
+<img src="./images/gs.jpg" alt="Goldman Sachs" width="70" height="70" />
+
 ### Vice President, Goldman Sachs (Oct 2018 - Present)
 
 - Led teams of 2-6 Developers and successfully delivered 15+ projects.
@@ -103,7 +105,8 @@ badges > https://shields.io/
 - Collaborate with cross-functional teams to identify opportunities for process improvement and automation
 
 ### Lead Engineer, Airtel (May 2018 – Sept 2018)
-* Delivered UIDAI-Aadhar mandate integration in Airtel customer acquisition application handling ~200K requests per day.
+
+- Delivered UIDAI-Aadhar mandate integration in Airtel customer acquisition application handling ~200K requests per day.
 
 ### Associate Technical Lead, Ernst & Young (APR 2017 – NOV 2017)
 * Implemented scalable Role-based access management in DigiGST-ASP module with Java, Spring MVC, SQL Server and redis Cache.
